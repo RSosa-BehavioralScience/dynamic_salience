@@ -38,7 +38,7 @@ pre <- 0
 #Constant determining the total reduction of the "pre" term in salience is 
 #...set to one  
 
-k <- 1
+k <- .99
 
 #Constant representing the unacquired or static salience of the 
 #...target cue, which is related to its intensity 
@@ -167,7 +167,7 @@ pre <- 0
 #Constant determining the total reduction of the "pre" term in salience is 
 #...set to one  
 
-k <- 1
+k <- .99
 
 #Constant representing the unacquired or static salience of the 
 #...target cue, which is related to its intensity 
@@ -296,7 +296,7 @@ pre <- 0
 #Constant determining the total reduction of the "pre" term in salience is 
 #...set to one  
 
-k <- 1
+k <- .99
 
 #Constant representing the unacquired or static salience of the 
 #...target cue, which is related to its intensity 
