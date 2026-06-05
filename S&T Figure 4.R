@@ -72,7 +72,7 @@ pre_X2 <- 0
 
 # Constant determining the total reduction of the "pre_X" term in salience is 
 # set to one
-k <- 1
+k <- .99
 
 #### MOTIVATIONAL STATES
 
@@ -264,7 +264,7 @@ pre_X2 <- 0
 
 # Constant determining the total reduction of the "pre_X" term in salience is 
 # set to one
-k <- 1
+k <- .99
 
 #### MOTIVATIONAL STATES
 
@@ -450,3 +450,4 @@ print(p2)
 
 if (!require('gridExtra')) install.packages('gridExtra'); library(gridExtra)
 grid.arrange(p1, p2, ncol=2)
+#Save in 800x400 pixel dimension
