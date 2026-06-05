@@ -52,7 +52,7 @@ pre_X <- 0
 #Constant determining the total reduction of the "pre_X" term in salience is 
 #...set to one  
 
-k <- 1
+k <- .99
 
 #Creating empty vectors to store variables of interest in a 
 #...trial-by-trial fashion
