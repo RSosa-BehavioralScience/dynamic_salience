@@ -1,4 +1,4 @@
-#### Killcross & Balleine (1996) simulation:
+#### Killcross & Balleine (1996) simulation: 
 #### outcome-specific preexposure (motivational modulation) -> acquisition
 ####
 #### One cue X carries two outcome-specific associabilities:
